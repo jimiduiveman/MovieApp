@@ -1,6 +1,7 @@
 # Review
 
-After noting some opportunities for improvement of my application I incorporated the feedback in my application.
+In general, my application was found very clear. Compliments regarding design. But there were a few opportunities for improvement.
+After noting these opportunities for improvement of my application I incorporated the feedback in my application.
 These opportunities are listed below:
 
 * Add marks to your application so that people can easily see which part does something
