@@ -8,6 +8,7 @@
 
 import UIKit
 import FirebaseDatabase
+import Firebase
 
 class WatchListCollectionViewController: UICollectionViewController {
 
@@ -17,11 +18,12 @@ class WatchListCollectionViewController: UICollectionViewController {
 
     var movies = [Movie]()
     let watchListRef = Database.database().reference(withPath: "watch-list")
+    var userID = Auth.auth().currentUser?.uid
     
     
     func loadFromFirebase() {
         self.movies.removeAll()
-        watchListRef.observeSingleEvent(of: .value) { (snap: DataSnapshot) in
+        watchListRef.child(userID!).observeSingleEvent(of: .value) { (snap: DataSnapshot) in
             if snap.exists() {
                 if let dict = snap.value as? [String: NSDictionary] {
                     for item in dict {
