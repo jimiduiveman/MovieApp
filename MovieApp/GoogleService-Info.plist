@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>551672228144-2f8oq3882n6krep0acsk9hfme3c3hj14.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.551672228144-2f8oq3882n6krep0acsk9hfme3c3hj14</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBQtnZy1Bzn4Uu7GfbD91BBx4deDxEh4KU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>551672228144</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>jimi.MovieApp</string>
+	<key>PROJECT_ID</key>
+	<string>mijn-movie-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mijn-movie-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:551672228144:ios:75c4a0fd169173f9</string>
+	<key>DATABASE_URL</key>
+	<string>https://mijn-movie-app.firebaseio.com</string>
+</dict>
+</plist>
