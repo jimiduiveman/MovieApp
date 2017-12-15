@@ -8,6 +8,7 @@ The detail page of a movie contains an poster image, title, score and a descript
 Furthermore there is an user list inside the app.
 
 <b> Short instruction:</b> <br>
+For the best User Experience, use the most recent device: iPhone 8. 
 Log yourself in with a valid mailaddress and a password of at least 6 characters.
 Pick your movie and at it to your watchlist. Your watchlist is presented with a pair of eyes in the topright corner of the movies overview.
 
